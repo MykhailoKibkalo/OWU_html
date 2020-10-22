@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    text-align: center;
+}
+
+header{
+    background: pink;
+    width: 100%;
+    height: 300px;
+}
+
+.header_box1{
+    background: white;
+    width: 70%;
+    height: 200px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.header_box2{
+    width: 50%;
+    height: 100px;
+    background: black;
+    position: absolute;
+    top: 50px;
+    left: 25%;
+    clear: right;
+}
+
+.menu{
+    width: 100%;
+    height: 200px;
+    background: gray;
+    padding-bottom: 36px;
+    clear: right;
+}
+
+.box1{
+    float: left;
+    width: 25%;
+    height: 100%;
+    background: red;
+}
+
+.box2{
+    float: left;
+    width: 25%;
+    height: 100%;
+    background: yellow;
+}
+
+.box3{
+    float: left;
+    width: 25%;
+    height: 100%;
+    background: lightskyblue;
+}
+
+.box4{
+    float: left;
+    width: 25%;
+    height: 100%;
+    background: yellow;
+}
+
+.mbox1{
+    float: left;
+    width: 33.3%;
+    height: 600px;
+    background: green;
+}
+
+.mbox2{
+    float: left;
+    width: 33.3%;
+    height: 600px;
+    background: lightskyblue;
+}
+
+.mbox3{
+    float: left;
+    width: 33.3%;
+    height: 600px;
+    background: blue;
+    position: relative;
+}
+
+.left_inside{
+    height: 75%;
+    width: 75%;
+    margin: 60px auto;
+}
+
+.left{
+    clear: right;
+    width: 100%;
+    height: 20%;
+    background: orange;
+}
+
+.a-left{
+    float: left;
+    width: 50%;
+    height: 80%;
+    background: lightgrey;
+}
+
+.b-left{
+    float: right;
+    width: 50%;
+    height: 80%;
+    background: yellow;
+}
+
+.mbox2_inside{
+    margin-top: 60px;
+    width: 100%;
+    height: 522px;
+}
+
+.red_mbox2{
+    float: left;
+    height: 100%;
+    width: 33.3%;
+    background: red;
+}
+
+.a_centr{
+    float: left;
+    height: 100%;
+    width: 33.3%;
+    background: yellow;
+    position: relative;
+}
+
+.Ac{
+    float: left;
+    height: 85%;
+    width: 50%;
+    background: orange;
+    position: absolute;
+    bottom: 0;
+}
+
+.Bc{
+    height: 40%;
+    width: 50%;
+    background: red;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.orange_mbox2{
+    float: left;
+    height: 100%;
+    width: 33.3%;
+    background: orange;
+}
+
+.mbox3_left{
+    height: 200px;
+    width: 33.3%;
+    background: lightskyblue;
+    position: absolute;
+    bottom: 50px;
+}
+
+.mbox3_center{
+    height: 200px;
+    width: 33.3%;
+    background: yellow;
+    position: absolute;
+    bottom: 150px;
+    left: 33.3%;
+}
+
+.mbox3_right{
+    height: 200px;
+    width: 33.3%;
+    background: orange;
+    position: absolute;
+    bottom: 250px;
+    right: 0;
+}
+
+.text1{
+    margin-top: 40px;
+    margin-left: 30%;
+    width: 70%;
+    height: 15%;
+    background: black;
+    font-style: italic;
+    color: lightskyblue;
+    position: relative;
+
+
+}
+
+.te1{
+    text-align: center;
+    position: absolute;
+    margin: 5px 40px;
+}
+
+.text2{
+    margin-top: 60px;
+    width: 70%;
+    height: 15%;
+    background: black;
+    font-style: italic;
+    color: lightskyblue;
+    position: relative;
+}
+
+.te2{
+    text-align: center;
+    position: absolute;
+    margin: 5px 40px;
+}
+
+.footer{
+    color: white;
+    float: left;
+    width: 100%;
+    height: 200px;
+    background: black;
+}
+
+
+

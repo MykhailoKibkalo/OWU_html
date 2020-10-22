@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    width: 200px;
+    height: 400px;
+}
+.main {
+    padding:5px;
+    width: 800px;
+    height: 600px;
+    background: black;
+    }
+
+.orange1{
+    float: left;
+    clear: right;
+    width: 800px;
+    height: 100px;
+    background: orange;
+    }
+.red{
+    float: left;
+    background: red;
+    }
+.green{
+    float: left;
+    background: green;
+}
+.blue{
+    float: left;
+    background: blue;
+}
+.black{
+    float: left;
+    clear: right;
+    background: black;
+}
